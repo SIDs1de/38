@@ -1,0 +1,160 @@
+Uri: https://mc.yandex.ru/watch/88065007
+File Name: D:\WEB\trud-kaliningrad.ru\watch\88065007
+Content Type: image/gif
+
+Uri: https://trud-kaliningrad.ru/
+File Name: D:\WEB\trud-kaliningrad.ru\index.htm
+Content Type: text/html
+
+Uri: https://trud-kaliningrad.ru/apple-touch-icon.png
+File Name: D:\WEB\trud-kaliningrad.ru\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://trud-kaliningrad.ru/css/style.css
+File Name: D:\WEB\trud-kaliningrad.ru\css\style.css
+Content Type: text/css
+
+Uri: https://trud-kaliningrad.ru/favicon-16x16.png
+File Name: D:\WEB\trud-kaliningrad.ru\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://trud-kaliningrad.ru/favicon-32x32.png
+File Name: D:\WEB\trud-kaliningrad.ru\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://trud-kaliningrad.ru/fonts/OpenSans-Regular.woff
+File Name: D:\WEB\trud-kaliningrad.ru\fonts\OpenSans-Regular.woff
+Content Type: font/woff
+
+Uri: https://trud-kaliningrad.ru/fonts/OpenSans-Regular.woff2
+File Name: D:\WEB\trud-kaliningrad.ru\fonts\OpenSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://trud-kaliningrad.ru/fonts/OrchideaPro-Bold.woff
+File Name: D:\WEB\trud-kaliningrad.ru\fonts\OrchideaPro-Bold.woff
+Content Type: font/woff
+
+Uri: https://trud-kaliningrad.ru/fonts/OrchideaPro-Bold.woff2
+File Name: D:\WEB\trud-kaliningrad.ru\fonts\OrchideaPro-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://trud-kaliningrad.ru/fonts/OrchideaPro-Regular.woff
+File Name: D:\WEB\trud-kaliningrad.ru\fonts\OrchideaPro-Regular.woff
+Content Type: font/woff
+
+Uri: https://trud-kaliningrad.ru/fonts/OrchideaPro-Regular.woff2
+File Name: D:\WEB\trud-kaliningrad.ru\fonts\OrchideaPro-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://trud-kaliningrad.ru/fonts/OrchideaPro-SemiBold.woff
+File Name: D:\WEB\trud-kaliningrad.ru\fonts\OrchideaPro-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://trud-kaliningrad.ru/fonts/OrchideaPro-SemiBold.woff2
+File Name: D:\WEB\trud-kaliningrad.ru\fonts\OrchideaPro-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://trud-kaliningrad.ru/fonts/Roboto-Medium.woff
+File Name: D:\WEB\trud-kaliningrad.ru\fonts\Roboto-Medium.woff
+Content Type: font/woff
+
+Uri: https://trud-kaliningrad.ru/fonts/Roboto-Medium.woff2
+File Name: D:\WEB\trud-kaliningrad.ru\fonts\Roboto-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://trud-kaliningrad.ru/images/company.webp
+File Name: D:\WEB\trud-kaliningrad.ru\images\company.webp
+Content Type: 
+
+Uri: https://trud-kaliningrad.ru/images/faq.webp
+File Name: D:\WEB\trud-kaliningrad.ru\images\faq.webp
+Content Type: 
+
+Uri: https://trud-kaliningrad.ru/images/favicon.svg
+File Name: D:\WEB\trud-kaliningrad.ru\images\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/images/logo-footer.webp
+File Name: D:\WEB\trud-kaliningrad.ru\images\logo-footer.webp
+Content Type: 
+
+Uri: https://trud-kaliningrad.ru/images/logo.svg
+File Name: D:\WEB\trud-kaliningrad.ru\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/images/map.webp
+File Name: D:\WEB\trud-kaliningrad.ru\images\map.webp
+Content Type: 
+
+Uri: https://trud-kaliningrad.ru/images/review-1.svg
+File Name: D:\WEB\trud-kaliningrad.ru\images\review-1.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/images/review-2.svg
+File Name: D:\WEB\trud-kaliningrad.ru\images\review-2.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/images/review-3.svg
+File Name: D:\WEB\trud-kaliningrad.ru\images\review-3.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/images/showcase.webp
+File Name: D:\WEB\trud-kaliningrad.ru\images\showcase.webp
+Content Type: 
+
+Uri: https://trud-kaliningrad.ru/images/work-1.svg
+File Name: D:\WEB\trud-kaliningrad.ru\images\work-1.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/images/work-2.svg
+File Name: D:\WEB\trud-kaliningrad.ru\images\work-2.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/images/work-3.svg
+File Name: D:\WEB\trud-kaliningrad.ru\images\work-3.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/images/work-4.svg
+File Name: D:\WEB\trud-kaliningrad.ru\images\work-4.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/images/work-5.svg
+File Name: D:\WEB\trud-kaliningrad.ru\images\work-5.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/images/work-6.svg
+File Name: D:\WEB\trud-kaliningrad.ru\images\work-6.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/js/main.js
+File Name: D:\WEB\trud-kaliningrad.ru\js\main.js
+Content Type: application/javascript
+
+Uri: https://trud-kaliningrad.ru/libs/jquery.magnific-popup.js
+File Name: D:\WEB\trud-kaliningrad.ru\libs\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://trud-kaliningrad.ru/libs/jquery.maskedinput.min.js
+File Name: D:\WEB\trud-kaliningrad.ru\libs\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://trud-kaliningrad.ru/libs/jquery/jquery-3.2.1.min.js
+File Name: D:\WEB\trud-kaliningrad.ru\libs\jquery\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://trud-kaliningrad.ru/libs/magnific-popup.css
+File Name: D:\WEB\trud-kaliningrad.ru\libs\magnific-popup.css
+Content Type: text/css
+
+Uri: https://trud-kaliningrad.ru/libs/site.js
+File Name: D:\WEB\trud-kaliningrad.ru\libs\site.js
+Content Type: application/javascript
+
+Uri: https://trud-kaliningrad.ru/safari-pinned-tab.svg
+File Name: D:\WEB\trud-kaliningrad.ru\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://trud-kaliningrad.ru/site.webmanifest
+File Name: D:\WEB\trud-kaliningrad.ru\site.webmanifest
+Content Type: 
+
